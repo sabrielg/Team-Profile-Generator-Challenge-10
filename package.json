@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator-challenge-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrielg/Team-Profile-Generator-Challenge-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrielg/Team-Profile-Generator-Challenge-10/issues"
+  },
+  "homepage": "https://github.com/sabrielg/Team-Profile-Generator-Challenge-10#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
