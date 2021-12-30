@@ -5,3 +5,11 @@ background-color: #EE2E31;
 .card-header {
     background-color: #1B9AAA;
 } 
+
+.employee-card {
+    padding: 20px
+}
+
+.container {
+    padding: 10px
+}
