@@ -11,6 +11,8 @@ After copying the repo to your local computer you can run the program by inputti
  [My team](My_Team.jpg)
 ## Credits
 Armando Osario (my tutor)
+## Walkthrough
+[walkthrough](https://watch.screencastify.com/v/yIF5ImGCS3x8agFikHNk)
 ## License
 MIT License
 
