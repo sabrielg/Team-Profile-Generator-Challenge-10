@@ -8,9 +8,7 @@ I learned to write and run tests using Jest and use Inquirer to write command li
 You must fork or copy over this repo and run it on your own computer.
 ## Usage
 After copying the repo to your local computer you can run the program by inputting "index.js" into the command line. Then follow all of the prompts for each time of team member. After you are finished a "team.html" file will be created. You can open that in your browser to see the information you put in reflected there in a professional manner
-    ```md
-    ![My team](My_Team.jpg)
-    ```
+ [My team](My_Team.jpg)
 ## Credits
 Armando Osario (my tutor)
 ## License
